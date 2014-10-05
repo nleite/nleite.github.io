@@ -5,7 +5,7 @@ date:   2014-10-05 00:00:00
 categories: hello world
 ---
 
-So yes, I've decided to get my self doing some blogging about technology that I'm familiar with _(shocking, another IT guy blog post!)_ so you can expect lots of [MongoDB](http://www.mongodb.org), stories from the field of [Solutions Architecting](http://en.wikipedia.org/wiki/Solutions_Architect) and other topics that I might find interesting or worthy to write about.
+So yes, I've decided to get myself doing some blogging about technology that I'm familiar with _(shocking, another IT guy blog post!)_ so you can expect lots of [MongoDB](http://www.mongodb.org), stories from the field of [Solutions Architecting](http://en.wikipedia.org/wiki/Solutions_Architect) and other topics that I might find interesting or worthy to write about.
 
 ###Motivation
 
