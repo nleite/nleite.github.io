@@ -11,13 +11,13 @@ There are more than 2 possible reasons why you ended it in this blog but let's k
 1. You know me! So no need to introduce myself
 2. You don't know me and google made it so we could finally meet!
 
-If you are in the lattest of the 2 options where's what you want to know:
+If you are in the latest of the 2 options where's what you want to know:
 
 * Norberto Leite
 * Software Engineer
 * Work for [MongoDB](http://www.mongodb.com)
 * Write about tech and other professional topics
-* Love python, beer and footbal (not necessarily on that order)
+* Love python, beer and football (not necessarily on that order)
 
 ### Why do I keep a blog?
 
